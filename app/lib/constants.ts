@@ -72,12 +72,12 @@ export const testimonials = [
     {
         name: 'Tharindu Chathuranga',
         role: 'COO at ServerClub Pvt Ltd',
-        quote: 'Chathu delivered our project ahead of schedule with exceptional quality. Highly recommended!'
+        quote: 'Chathuranga delivered our project ahead of schedule with exceptional quality. Highly recommended!'
     },
     {
         name: 'Saranath Ishara Udayanga',
         role: 'CEO at ServerClub Pvt Ltd',
-        quote: 'Working with Ali was a pleasure. His attention to detail and problem-solving skills are top-notch.'
+        quote: 'Working with Chathuranga was a pleasure. His attention to detail and problem-solving skills are top-notch.'
     }
 ]
 
