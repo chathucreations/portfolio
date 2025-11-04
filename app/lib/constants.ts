@@ -9,8 +9,10 @@ import {
     FiDatabase,
     FiCpu
 } from 'react-icons/fi'
-import { FaReact, FaNodeJs } from 'react-icons/fa'
-import { SiNextdotjs, SiTypescript, SiTailwindcss, SiGraphql } from 'react-icons/si'
+
+import { FaReact, FaNodeJs, FaPhp, FaDatabase } from 'react-icons/fa'
+import { SiNextdotjs, SiTypescript, SiTailwindcss, SiGraphql, SiLaravel, SiMysql } from 'react-icons/si'
+
 
 export const navLinks = [
     { name: 'Home', href: 'home' },
