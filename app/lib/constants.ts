@@ -26,13 +26,17 @@ export const socialLinks = [
     { name: 'Email', url: 'mailto:info.chathupathirana@gmail.com', icon: FiMail },
 ]
 
+
 export const skills = [
-    { name: 'React', icon: FaReact },
-    { name: 'Next.js', icon: SiNextdotjs },
-    { name: 'TypeScript', icon: SiTypescript },
-    { name: 'Node.js', icon: FaNodeJs },
-    { name: 'Tailwind CSS', icon: SiTailwindcss },
-    { name: 'GraphQL', icon: SiGraphql },
+  { name: 'React', icon: FaReact },
+  { name: 'Next.js', icon: SiNextdotjs },
+  { name: 'TypeScript', icon: SiTypescript },
+  { name: 'Node.js', icon: FaNodeJs },
+  { name: 'Tailwind CSS', icon: SiTailwindcss },
+  { name: 'GraphQL', icon: SiGraphql },
+  { name: 'PHP', icon: FaPhp },
+  { name: 'Laravel', icon: SiLaravel },
+  { name: 'MySQL', icon: SiMysql },
 ]
 
 export const projects = [
