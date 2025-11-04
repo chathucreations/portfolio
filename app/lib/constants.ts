@@ -24,7 +24,6 @@ export const navLinks = [
 
 export const socialLinks = [
     { name: 'GitHub', url: 'https://github.com/chathucreations', icon: FiGithub },
-    { name: 'LinkedIn', url: 'https://www.linkedin.com/in/alirazaweb/', icon: FiLinkedin },
     { name: 'Email', url: 'mailto:info.chathupathirana@gmail.com', icon: FiMail },
 ]
 
