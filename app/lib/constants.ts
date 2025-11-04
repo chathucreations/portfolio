@@ -70,19 +70,14 @@ export const projects = [
 
 export const testimonials = [
     {
-        name: 'Jane Smith',
-        role: 'CEO at TechCorp',
-        quote: 'Ali delivered our project ahead of schedule with exceptional quality. Highly recommended!'
+        name: 'Tharindu Chathuranga',
+        role: 'COO at ServerClub Pvt Ltd',
+        quote: 'Chathu delivered our project ahead of schedule with exceptional quality. Highly recommended!'
     },
     {
-        name: 'Mike Johnson',
-        role: 'Product Manager',
+        name: 'Saranath Ishara Udayanga',
+        role: 'CEO at ServerClub Pvt Ltd',
         quote: 'Working with Ali was a pleasure. His attention to detail and problem-solving skills are top-notch.'
-    },
-    {
-        name: 'Sarah Williams',
-        role: 'Marketing Director',
-        quote: 'Our website performance improved dramatically after Ali optimized it. Great work!'
     }
 ]
 
